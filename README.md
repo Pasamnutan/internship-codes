@@ -17,4 +17,6 @@ Basic Python Utilities is a collection of simple Python scripts and functions de
 14)Python program to find tuple indices form other tuple 
 15)Python program to find product,multiplication of numbers in tuple
 16)Average value of the numbers of the said tuple of tuples in python
+17)Data analysis of Netflix movie
+
 
