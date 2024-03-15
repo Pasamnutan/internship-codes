@@ -15,6 +15,6 @@ Distribution of ratings
 Relationship between ratings and release years
 Dataset
 The dataset includes attributes such as title, director, cast, release year, duration, genres, and ratings.
-Contributors
+Contributors:
 Pasam Nutan.
 This information gives a brief overview of the project, the analyses performed, details about the dataset and contributor information.
