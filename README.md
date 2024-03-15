@@ -14,4 +14,7 @@ Basic Python Utilities is a collection of simple Python scripts and functions de
 11)Convert list of dictionary to tuple list python 
 12)Python program to sort tuple list by nth element of tuple 
 13)Python program to find tuple indices form other tuple list 
-14)Python program to find tuple indices form other tuple l
+14)Python program to find tuple indices form other tuple 
+15)Python program to find product,multiplication of numbers in tuple
+16)Average value of the numbers of the said tuple of tuples in python
+
