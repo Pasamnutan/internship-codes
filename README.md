@@ -19,5 +19,5 @@ Basic Python Utilities is a collection of simple Python scripts and functions de
 16)Average value of the numbers of the said tuple of tuples in python
 17) Week 3 internship project:
 Data analysis of Netflix movie
-
+18)Data Analysis of TopCompany by preprocessing the company dataset using various preprocessing techniques and finally proceded with Exploratory Data Analysis(EDA).Can refer my TopCompany_analysis.
 
