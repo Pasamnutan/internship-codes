@@ -2,9 +2,7 @@ Internship Codes:
 Python Utilities: Basic Python Utilities
 Introduction:
 Basic Python Utilities is a curated collection of simple Python scripts and functions aimed at assisting beginners in learning and practicing fundamental programming concepts in Python. Whether you are embarking on your Python journey or seeking to reinforce your skills, this project offers easy-to-understand examples to facilitate your learning process.
-
 List of Python Codes:
-
 Addition of Two Numbers: Python program to add two numbers and find their maximum.
 Factorial Calculation: Python Program for factorial of a number.
 Interest Calculation: Python Programs for simple and compound interest calculations.
@@ -18,5 +16,5 @@ Dictionary Manipulation: Python programs to convert a list of dictionaries to a 
 Tuple Operations: Python programs to find the product/multiplication of numbers in a tuple and calculate the average value of the numbers in a tuple of tuples.
 Internship Projects:
 Week 3 Project: Data Analysis of Netflix Movie.
-Data Analysis of TopCompany: Preprocessing the company dataset using various techniques followed by Exploratory Data Analysis (EDA).
+Data Analysis of TopCompany: Preprocessing the company dataset using various techniques followed by Exploratory Data Analysis (EDA) .
 
