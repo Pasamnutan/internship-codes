@@ -1,8 +1,7 @@
-Internship Codes: 
-Python Utilities: Basic Python Utilities
+
+Internship Codes: Python Utilities: Basic Python Utilities
 Introduction:
 Basic Python Utilities is a curated collection of simple Python scripts and functions aimed at assisting beginners in learning and practicing fundamental programming concepts in Python. Whether you are embarking on your Python journey or seeking to reinforce your skills, this project offers easy-to-understand examples to facilitate your learning process.
-
 List of Python Codes:
 Addition of Two Numbers: Python program to add two numbers and find their maximum.
 
